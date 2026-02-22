@@ -2,6 +2,8 @@
 
 A softcore addon for Meteor Client by 8oft.
 
+Ayo join my Discord for free low quality dupes mate: https://discord.gg/ECnEBx55sD 
+
 ### How to use
 
 #### Use GitHub Template (Recommended)
