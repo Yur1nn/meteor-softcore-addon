@@ -28,6 +28,14 @@ public class SoftcoreAddon extends MeteorAddon {
         Modules.get().add(new AutoDisconnect());
         Modules.get().add(new ItemDupeHelper());
         Modules.get().add(new PacketLogger());
+        Modules.get().add(new DeathChestDebugger());
+        
+        // Death Chest Exploit Modules
+        Modules.get().add(new InventoryCloseDelayer());
+        Modules.get().add(new HotbarSwapExploit());
+        Modules.get().add(new ShiftClickExploit());
+        Modules.get().add(new ChestReopenHelper());
+        Modules.get().add(new RaceConditionTester());
 
         // Commands
         Commands.add(new CommandExample());
